@@ -17,8 +17,8 @@ Below is the verified evidence of my artwork being officially curated and presen
 
 #### 📸 Exhibition & Club Leadership Highlights
 <p align="center">
-  <img src="images/exhibition1.jpg" width="45%" alt="Presenting Club Masterpiece to Chief Guest" />
-  <img src="images/exhibition2.jpg" width="45%" alt="Explaining Technical Sketching Concepts to VIP Delegation" />
+  <img src="exhibition1.jpg" width="45%" alt="Presenting Club Masterpiece to Chief Guest" />
+  <img src="exhibition2.jpg" width="45%" alt="Explaining Technical Sketching Concepts to VIP Delegation" />
 </p>
 
 * **Left:** Presenting our custom club landscape work to the institutional chief guest alongside executive board members.
