@@ -4,18 +4,18 @@
 
 ---
 
-## 🚀 Welcome to My Portfolio
+##  Welcome to My Portfolio
 This repository serves as a centralized archive showcasing the intersection of my technical tracks in **Data Analytics & AI**, my continuous algorithmic training, and my leadership execution as a student leader and visual artist.
 
 ---
 
-## 🎨 Fine Arts & Leadership Portfolio
+## Fine Arts & Leadership Portfolio
 ### Role: President of the College Sketching Club (Cadet College Petaro)
 In my role as President, I lead fine arts engagement within a highly disciplined military boarding environment. My personal work specializes in **graphite pencil shading, structural/mechanical layout precision, and anatomical surrealism**. 
 
 Below is the verified evidence of my artwork being officially curated and presented to dignitaries during the college's grand institutional exhibition:
 
-#### 📸 Exhibition & Club Leadership Highlights
+####  Exhibition & Club Leadership Highlights
 <p align="center">
   <img src="exhibition1.jpg" width="45%" alt="Presenting Club Masterpiece to Chief Guest" />
   <img src="exhibition2.jpg" width="45%" alt="Explaining Technical Sketching Concepts to VIP Delegation" />
@@ -24,13 +24,13 @@ Below is the verified evidence of my artwork being officially curated and presen
 * **Left:** Presenting our custom club landscape work to the institutional chief guest alongside executive board members.
 * **Right:** Elaborating on shading dynamics, spatial geometry, and perspective design layouts during the annual showcase evaluation.
 
-#### ✒️ Featured Artwork Studies
+####  Featured Artwork Studies
 * **Anatomical Surrealism Study:** A highly detailed graphite pencils study exploring structural proportions blended with natural elements. (Refer to `anatomical-heart-floral-study.jpg`)
 * **The Cruise Ship Layout:** An exercise in precise mechanical perspective drawing, highlighting lighting variations and depth scaling. (Refer to `cruise-ship-study.jpg`)
 
 ---
 
-## 💻 Tech Stack & Algorithmic Problem Solving
+##  Tech Stack & Algorithmic Problem Solving
 Apart from my leadership in arts, I am actively building a competitive technical profile for undergraduate Computer Science and AI spaces:
 
 * **Core Skills:** Algorithmic Thinking, Logical Reasoning, Foundations of Python & C.
