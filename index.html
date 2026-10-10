@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#171916">
+  <meta name="description" content="A selected gallery of drawings and visual studies by Hassan Uddin Qureshi.">
+  <title>Hassan Uddin Qureshi — Art & Sketchbook</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#home" aria-label="Hassan Art home"><span class="brand-mark">H</span><span>HASSAN <i> / </i> ART & SKETCHBOOK</span></a>
+    <nav><a href="#gallery">Gallery</a><a href="#about">About</a><a class="nav-cta" href="https://github.com/" target="_blank" rel="noreferrer">GitHub ↗</a></nav>
+  </header>
+
+  <main id="home">
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="dot"></span> SELECTED WORKS · DRAWING & OBSERVATION</p>
+        <h1>A curious mind.<br><em>A pencil in hand.</em></h1>
+        <p class="hero-text">A personal collection of sketches, studies and ideas—made one line at a time.</p>
+        <a class="primary-link" href="#gallery">Explore the gallery <span>↘</span></a>
+      </div>
+      <div class="hero-art" aria-label="Featured pencil artwork">
+        <div class="art-frame"><img src="images/anatomical-heart-floral-study.jpg" alt="Graphite drawing of an anatomical heart surrounded by flowers, butterflies and birds"></div>
+        <div class="art-stamp"><span>01</span><span>GRAPHITE<br>STUDY</span></div>
+        <span class="scribble scribble-one">observe</span><span class="scribble scribble-two">imagine</span>
+      </div>
+      <div class="hero-foot"><span>INDEPENDENT PRACTICE</span><span>BASED IN PAKISTAN</span><span>SCROLL TO DISCOVER ↓</span></div>
+    </section>
+
+    <section class="gallery-section" id="gallery">
+      <div class="section-heading"><div><p class="eyebrow">THE COLLECTION</p><h2>Selected <em>pieces.</em></h2></div><p class="section-note">A small gallery of works that reflect curiosity, patience and the joy of making.</p></div>
+      <div class="gallery-grid">
+        <button class="art-card featured" data-image="images/anatomical-heart-floral-study.jpg" data-title="Heart, Nature & Flight" data-meta="Graphite pencil · 22 December 2018" aria-label="Open Heart, Nature and Flight artwork">
+          <span class="card-image"><img src="images/anatomical-heart-floral-study.jpg" alt="Anatomical heart with flowers, butterflies and birds, drawn in graphite"><span class="view-mark">↗</span></span>
+          <span class="card-caption"><span><strong>Heart, Nature & Flight</strong><small>Graphite pencil · 22 Dec 2018</small></span><span class="card-number">01</span></span>
+        </button>
+        <div class="coming-card"><span class="plus">＋</span><strong>More work, in time.</strong><p>New sketches will be added as the collection grows.</p><span class="coming-label">NEXT PIECE · SOON</span></div>
+      </div>
+    </section>
+
+    <section class="about-section" id="about">
+      <div class="about-symbol">✳</div>
+      <div><p class="eyebrow">A NOTE FROM THE SKETCHBOOK</p><h2>Art begins with <em>noticing.</em></h2><p class="about-text">I’m Hassan. This is a growing archive of my drawings and visual experiments. I enjoy exploring details, shapes and the stories a simple pencil line can suggest.</p><p class="about-small">Every piece here is presented as part of my own learning journey.</p></div>
+    </section>
+  </main>
+
+  <footer><a class="brand footer-brand" href="#home"><span class="brand-mark">H</span><span>HASSAN <i> / </i> ART & SKETCHBOOK</span></a><span>Made with care, one line at a time.</span><a href="#home">BACK TO TOP ↑</a></footer>
+
+  <dialog id="art-modal" aria-label="Artwork preview"><button class="modal-close" aria-label="Close artwork preview">×</button><img id="modal-image" src="" alt=""><div class="modal-caption"><strong id="modal-title"></strong><span id="modal-meta"></span></div></dialog>
+  <script>
+    const modal = document.querySelector('#art-modal');
+    const modalImage = document.querySelector('#modal-image');
+    document.querySelectorAll('.art-card[data-image]').forEach(card => card.addEventListener('click', () => {
+      modalImage.src = card.dataset.image;
+      modalImage.alt = card.querySelector('img').alt;
+      document.querySelector('#modal-title').textContent = card.dataset.title;
+      document.querySelector('#modal-meta').textContent = card.dataset.meta;
+      modal.showModal();
+    }));
+    document.querySelector('.modal-close').addEventListener('click', () => modal.close());
+    modal.addEventListener('click', e => { if (e.target === modal) modal.close(); });
+  </script>
+</body>
+</html>
