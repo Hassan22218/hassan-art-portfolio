@@ -1,19 +1,50 @@
-# Hassan Uddin Qureshi — Art & Sketchbook
-
-Welcome to my personal digital art gallery as "President Sketching Club" Cadet College Petaro - Jamshoro Pakistan. This portfolio is a curated collection of my drawings, observational studies, and visual experiments, serving as an archive of my artistic evolution and learning journey.
-
-##  Creative Philosophy
-For me, art begins with noticing. Through medium-based practices—predominantly graphite pencil and structured linework—I explore intricate details, organic forms, and the narratives that a simple line can convey. This repository acts as both a showcase of my completed work and a living sketchbook of ongoing experiments.
-
-##  Featured Works
-
-*   **Heart, Nature & Flight (Dec 2023):** A graphite study blending anatomical accuracy with expressive natural elements.
-*   **The Cruise Ship Study (Jan 2020):** An exploration of complex perspective, structural symmetry, and water shading techniques.
-
-##  Technical Details
-This portfolio was built independently to design a minimal, distraction-free environment that prioritizes the visual weight of each art piece.
-*   **Frontend:** Pure HTML5, CSS3 (Responsive Styling), and vanilla JavaScript.
-*   **Architecture:** Clean, dependency-free architecture deployed via GitHub Pages for optimal presentation.
+# Hassan Uddin Qureshi — Portfolio
+**Aspiring Computer Science & Artificial Intelligence Undergraduate (2027 Entry)**  
+*Cadet College Petaro | Tech Innovator, National Merit Scholar & Visual Artist*
 
 ---
-*Created with patience, curiosity, and a focus on independent practice.*
+
+## 🚀 Welcome to My Portfolio
+This repository serves as a centralized archive showcasing the intersection of my technical tracks in **Data Analytics & AI**, my continuous algorithmic training, and my leadership execution as a student leader and visual artist.
+
+---
+
+## 🎨 Fine Arts & Leadership Portfolio
+### Role: President of the College Sketching Club (Cadet College Petaro)
+In my role as President, I lead fine arts engagement within a highly disciplined military boarding environment. My personal work specializes in **graphite pencil shading, structural/mechanical layout precision, and anatomical surrealism**. 
+
+Below is the verified evidence of my artwork being officially curated and presented to dignitaries during the college's grand institutional exhibition:
+
+#### 📸 Exhibition & Club Leadership Highlights
+<p align="center">
+  <img src="images/exhibition1.jpg" width="45%" alt="Presenting Club Masterpiece to Chief Guest" />
+  <img src="images/exhibition2.jpg" width="45%" alt="Explaining Technical Sketching Concepts to VIP Delegation" />
+</p>
+
+* **Left:** Presenting our custom club landscape work to the institutional chief guest alongside executive board members.
+* **Right:** Elaborating on shading dynamics, spatial geometry, and perspective design layouts during the annual showcase evaluation.
+
+#### ✒️ Featured Artwork Studies
+* **Anatomical Surrealism Study:** A highly detailed graphite pencils study exploring structural proportions blended with natural elements. (Refer to `images/anatomical-heart-floral-study.jpg`)
+* **The Cruise Ship Layout:** An exercise in precise mechanical perspective drawing, highlighting lighting variations and depth scaling. (Refer to `images/cruise-ship.jpg`)
+
+---
+
+## 💻 Tech Stack & Algorithmic Problem Solving
+Apart from my leadership in arts, I am actively building a competitive technical profile for undergraduate Computer Science and AI spaces:
+
+* **Core Skills:** Algorithmic Thinking, Logical Reasoning, Foundations of Python & C.
+* **Specialized Training:** Graduate of the *Data Analytics & Business Intelligence* track via DigiSkills (Ignite / Ministry of IT & Telecom).
+* **In-Progress Focus:** Applied AI Foundations using Python, Cloud Computing Frameworks, and Web Infrastructure.
+* **Competitive Profiles:** Actively sharpening data structure logic on [Codeforces](https://codeforces.com) and [LeetCode](https://leetcode.com).
+
+---
+
+## 🏆 National Academic & Leadership Honors
+* **6th Position Nationwide** – National Mathlete Contest (N-CATS)
+* **8th Position Nationwide** – National Sciencetien Contest (N-CATS)
+* **College High Achiever Award** – Issued on August 14, 2026, for straight **AAA** grades in Cambridge AS-Levels (Math, Physics, CS).
+* **College Band Commander** – Appointed Senior Cadet Officer on Sept 6, 2026, leading musical parade formations.
+
+---
+*Contact: hassan22218 [at] gmail [dot] com | Verified via Common App ID Portal*
