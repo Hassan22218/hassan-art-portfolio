@@ -25,8 +25,8 @@ Below is the verified evidence of my artwork being officially curated and presen
 * **Right:** Elaborating on shading dynamics, spatial geometry, and perspective design layouts during the annual showcase evaluation.
 
 ####  Featured Artwork Studies
-* **Anatomical Surrealism Study:** A highly detailed graphite pencils study exploring structural proportions blended with natural elements. (Refer to `anatomical-heart-floral-study.jpeg`)
-* **The Cruise Ship Layout:** An exercise in precise mechanical perspective drawing, highlighting lighting variations and depth scaling. (Refer to `cruise-ship-study.jpg`)
+* **Anatomical Surrealism Study:** A highly detailed graphite pencils study exploring structural proportions blended with natural elements. (Refer to `anatomical-heart-floral-study.jpg`)
+* **The Cruise Ship Layout:** An exercise in precise mechanical perspective drawing, highlighting lighting variations and depth scaling. (Refer to `cruise-ship-study.jpeg`)
 
 ---
 
