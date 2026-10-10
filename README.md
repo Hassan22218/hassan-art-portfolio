@@ -1,6 +1,6 @@
 # Hassan Uddin Qureshi — Art & Sketchbook
 
-Welcome to my personal digital art gallery. This portfolio is a curated collection of my drawings, observational studies, and visual experiments, serving as an archive of my artistic evolution and learning journey.
+Welcome to my personal digital art gallery as "President Sketching Club" Cadet College Petaro - Jamshoro Pakistan. This portfolio is a curated collection of my drawings, observational studies, and visual experiments, serving as an archive of my artistic evolution and learning journey.
 
 ##  Creative Philosophy
 For me, art begins with noticing. Through medium-based practices—predominantly graphite pencil and structured linework—I explore intricate details, organic forms, and the narratives that a simple line can convey. This repository acts as both a showcase of my completed work and a living sketchbook of ongoing experiments.
