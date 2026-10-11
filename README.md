@@ -1,51 +1,46 @@
-# Hassan Uddin Qureshi — Portfolio
-**Aspiring Computer Science & Artificial Intelligence Undergraduate (2027 Entry)**  
-*Cadet College Petaro | Tech Innovator, National Merit Scholar & Visual Artist*
+
+# Hassan Uddin Qureshi
+### Art Portfolio | Sketching & Creative Expression
+
+**President, Sketching Club · Cadet College Petaro, Pakistan**
+
+[**View Live Art Portfolio →**](https://hassan22218.github.io/hassan-art-portfolio/)
 
 ---
 
-##  Welcome to My Portfolio
-This repository serves as a centralized archive showcasing the intersection of my technical tracks in **Data Analytics & AI**, my continuous algorithmic training, and my leadership execution as a student leader and visual artist.
+## About This Portfolio
+
+This portfolio presents a selection of my artwork and documents my ongoing exploration of sketching, observation, and visual expression.
+
+Through drawing, I seek to explore form, structure, proportion, and detail. My creative practice offers opportunities to refine my technique, strengthen my observation skills, and approach familiar subjects from new perspectives.
+
+This website serves as a growing collection of my creative work and a record of my artistic development.
+
+## Art & Student Leadership
+
+### President, Sketching Club
+**Cadet College Petaro, Pakistan**
+
+As President of the Sketching Club, I support fellow club members in developing their artwork by offering guidance, sharing ideas, and encouraging creative exploration.
+
+The club provides a platform for students to express themselves through art, learn from one another, and showcase their work. During club events, artwork created by members is displayed to celebrate their creativity and engage the wider college community.
+
+This role has strengthened my appreciation for collaborative learning, creative leadership, and the value of creating an environment where students can develop and share their artistic abilities.
+
+## Events & Exhibitions
+
+The portfolio includes a dedicated section for documenting art exhibitions, club events, and creative activities.
+
+Event photographs and relevant details will be added to provide a visual record of the club's activities and its members' artistic contributions.
+
+[**Explore Events & Exhibitions →**](https://hassan22218.github.io/hassan-art-portfolio/events.html)
+
+## Looking Ahead
+
+I intend to continue developing my artistic skills, exploring new subjects, and contributing to a creative community where students can learn from one another and share their work.
+
+This portfolio will evolve as I create new artwork and document further creative experiences.
 
 ---
 
-## Fine Arts & Leadership Portfolio
-### Role: President of the College Sketching Club (Cadet College Petaro)
-In my role as President, I lead fine arts engagement within a highly disciplined military boarding environment. My personal work specializes in **graphite pencil shading, structural/mechanical layout precision, and anatomical surrealism**. 
-
-Below is the verified evidence of my artwork being officially curated and presented to dignitaries during the college's grand institutional exhibition:
-
-####  Exhibition & Club Leadership Highlights
-<p align="center">
-  <img src="exhibition1.jpg" width="45%" alt="Presenting Club Masterpiece to Chief Guest" />
-  <img src="exhibition2.jpg" width="45%" alt="Explaining Technical Sketching Concepts to VIP Delegation" />
-</p>
-
-* **Left:** Presenting our custom club landscape work to the institutional chief guest alongside executive board members.
-* **Right:** Elaborating on shading dynamics, spatial geometry, and perspective design layouts during the annual showcase evaluation.
-
-####  Featured Artwork Studies
-* **Anatomical Surrealism Study:** A highly detailed graphite pencils study exploring structural proportions blended with natural elements. (Refer to `anatomical-heart-floral-study.jpg`)
-* **The Cruise Ship Layout:** An exercise in precise mechanical perspective drawing, highlighting lighting variations and depth scaling. (Refer to images/cruise-ship-study.jpeg)
-
-
----
-
-##  Tech Stack & Algorithmic Problem Solving
-Apart from my leadership in arts, I am actively building a competitive technical profile for undergraduate Computer Science and AI spaces:
-
-* **Core Skills:** Algorithmic Thinking, Logical Reasoning, Foundations of Python & C.
-* **Specialized Training:** Graduate of the *Data Analytics & Business Intelligence* track via DigiSkills (Ignite / Ministry of IT & Telecom).
-* **In-Progress Focus:** Applied AI Foundations using Python, Cloud Computing Frameworks, and Web Infrastructure.
-* **Competitive Profiles:** Actively sharpening data structure logic on [Codeforces](https://codeforces.com) and [LeetCode](https://leetcode.com).
-
----
-
-## 🏆 National Academic & Leadership Honors
-* **6th Position Nationwide** – National Mathlete Contest (N-CATS)
-* **8th Position Nationwide** – National Sciencetien Contest (N-CATS)
-* **College High Achiever Award** – Issued on August 14, 2026, for straight **AAA** grades in Cambridge AS-Levels (Math, Physics, CS).
-* **College Band Commander** – Appointed Senior Cadet Officer on Sept 6, 2026, leading musical parade formations.
-
----
-*Contact: hassan22218 [at] gmail [dot] com | Verified via Common App ID Portal*
+*An evolving collection of artwork, creative exploration, and student leadership.*
